@@ -1,1 +1,1 @@
-# Nyanja Speech Dataset
+# Zambezi Voice - Nyanja Speech Dataset
